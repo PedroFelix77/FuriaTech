@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐺 FURIA Tech Bot
 
 Chatbot da FURIA Esports que responde dúvidas dos fãs usando dados da HLTV, além de mostrar links úteis como a loja oficial e até memes 😄
@@ -70,3 +71,6 @@ Tem meme da furia?
 Feito por Pedro Felix — 2025
 Projeto pessoal de estudo e demonstração com muito 💜 pela FURIA.
 ```
+=======
+# FuriaTech
+>>>>>>> dba013019529a74f4dbdc8b409507e68090fc2a0
